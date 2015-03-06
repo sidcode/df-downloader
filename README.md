@@ -2,6 +2,10 @@
 ##Damn Fast Downloader
 ##A Python-based **parallel-and-distributed** downloader on a Local network. 
 
+##Setup
+1. python2.7 server.py
+2. Interact with the web UI at localhost:6969/
+
 ##Features
 1. **Peer discovery** on the local network.
     * Currently using broadcast.
